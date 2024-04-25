@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
     Anusha's GitHub Profile
     Created on : 25/4/2024
