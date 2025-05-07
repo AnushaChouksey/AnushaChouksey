@@ -14,12 +14,12 @@
 ## 👩‍💻 About Me
 <table><tr><td valign="top" width="50%">
 
-- 🎯 Transitioned into **Data Analytics** after 2.5 years as an Oracle VBCS Developer  
-- 🔍 Currently working on real-world projects focused on **job market trends, salary analysis, and dashboard design**  
-- 📊 Skilled in **Power BI, SQL, Python (Pandas, NumPy), Excel, DAX, Data Cleaning, Visualization, REST APIs**  
-- 🚀 Past Experience in **Oracle Cloud (ERP, Fusion), SaaS Applications, and Web App Development (VBCS)**  
-- 💼 Passionate about extracting insights from data and building data-driven solutions  
-- 📫 Reach me at **anushac666@gmail.com**
+- 🎯 **Data Analyst at Accenture  
+- 📊 Specializing in **Data Visualization, Dashboard Reporting, Data Cleaning, and Insights Generation**  
+- 🚀 Key tools: **Power BI, SQL, Excel, REST APIs**  
+- 🧠 Experienced in building **interactive dashboards** for business performance and decision-making  
+- 📈 Passionate about transforming raw data into compelling visual stories  
+- 📬 Reach me: **anushac666@gmail.com**
 
 </td><td valign="top" width="50%">
 
@@ -32,16 +32,59 @@
 ## 📌 Featured Project
 
 ### 🔹 [Job Market Trends & Salary Insights Dashboard](https://github.com/AnushaChouksey/job-market-dashboard)
-- Built using **Power BI**, focuses on global & India-specific job data  
-- Covers **salary distribution, remote vs onsite trends, in-demand skills, and AI usage**  
-- Designed for **interactive filtering** by country, role, and AI adoption
+- Developed using **Power BI**
+- Analyzes global & India-focused IT job market data  
+- Tracks **salary ranges, remote vs on-site trends, tech stack demand, and AI adoption**  
+- Built for **interactive filtering and comparative analysis** across countries and roles  
 
 ---
 
-## 🧰 Tools & Technologies
+## 💼 Work Highlight: Accenture (2024–Present)
+
+> 📍 **Role**: Data Analyst 
+> 🛠️ Tools Used: Power BI, SQL Server, Excel, DAX  
+
+**Key Contributions**:
+- Built and maintained dashboards to track **operational outcomes and sales KPIs**  
+- Cleaned and modeled large datasets to ensure **accuracy, consistency, and performance**  
+- Developed calculated measures for revenue, customer demographics, and monthly trends  
+- Collaborated cross-functionally to support **data-driven decision-making**
+
+---
+
+## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/dev
+ <!-- SQL -->
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+    <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="40" height="40"/>
+  </a>
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
+  </a>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/anush
+
