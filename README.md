@@ -31,7 +31,7 @@
 
 ## 📌 Featured Project
 
-### 🔹 [Job Market Trends & Salary Insights Dashboard](https://github.com/AnushaChouksey/job-market-dashboard)
+### 🔹 [Job Market Trends & Salary Insights Dashboard](https://github.com/AnushaChouksey/Job-Market-Dashboard-)
 - Developed using **Power BI**
 - Analyzes global & India-focused IT job market data  
 - Tracks **salary ranges, remote vs on-site trends, tech stack demand, and AI adoption**  
